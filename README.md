@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studing as a IT undergraduate at Uva Wellassa University <br>👯 I’m looking to collaborate on free projects to gain experience <br>🤝 I’m looking for help with<br>🌱 I’m currently learning Java, Java Script, Python and C.<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently studing as an IT undergraduate at Uva Wellassa University <br>👯 I’m looking to collaborate on free projects to gain experience <br>🤝 I’m looking for help with<br>🌱 I’m currently learning Java, Java Script, Python and C.<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:

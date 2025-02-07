@@ -1,4 +1,4 @@
-Hi 👋, I'm Naveen Chathurya
+# Hi 👋, I'm Naveen Chathurya
 🔭 I’m currently studing as an IT undergraduate at Uva Wellassa University <br>👯 I’m looking to collaborate on free projects to gain experience.<br>🌱 I’m currently learning Java, Java Script, Python and C.<br>
 
 
